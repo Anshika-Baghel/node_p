@@ -1,0 +1,15 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "Basic udersatnsding of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshika Baghel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
